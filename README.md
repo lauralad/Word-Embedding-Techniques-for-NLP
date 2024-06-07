@@ -47,8 +47,8 @@ Min profession words:
 * 'judge', 
 * 'mining machine operator'
 
-![alt text](BiasedTSNE.png?raw=true)
-![alt text](DebiasedTSNE.png?raw=true)
+![alt text](https://github.com/lauralad/Word-Embedding-Techniques-for-NLP/blob/main/BiasedTSNE.PNG?raw=true)
+![alt text](https://github.com/lauralad/Word-Embedding-Techniques-for-NLP/blob/main/DebiasedTSNE.PNG?raw=true)
 
 ## How to Use:
 * Clone the repository to your local machine.
